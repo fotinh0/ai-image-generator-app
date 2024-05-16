@@ -11,7 +11,7 @@
 
 Welcome to my AI image generator application built with the MERN stack and powered by OpenAI's DALL-E model! This application allows users to generate unique and creative images based on textual prompts using AI technology.
 
-Active URL: [ai-image-generator-app-nu.vercel.app](ai-image-generator-app-nu.vercel.app)
+Active URL: [ai-image-generator-app-nu.vercel.app](https://ai-image-generator-app-nu.vercel.app/)
 
 <br/>
 
